@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Lewis Joseph Feik / Cybersecurity Portfilio"
 title_separator          : "-"
 name                     : &name "Lewis Joseph Feik"
 description              : &description "Cybersecurity Portfolio"
@@ -23,12 +23,12 @@ repository               : "FeikL2002/FeikL2002.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "About ME"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Lewis i am currently attending hocking college"
+  location         : "Plains OH"
+  employer         : "OPEN"
+  uri              : # FeikL2002.github.io
   email            : "none@example.org" 
 
   # Academic websites
@@ -52,8 +52,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
